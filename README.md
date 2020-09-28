@@ -1,3 +1,2 @@
-# Universidad Naciona Autónoma de México
-## Intersemestral de Python
-## Proyecto Final Analisis Datos COVID Mexico
+# Universidad Nacional Autónoma de México
+## Intersemestral de Python - Proyecto Final Análisis Datos COVID Máxico
