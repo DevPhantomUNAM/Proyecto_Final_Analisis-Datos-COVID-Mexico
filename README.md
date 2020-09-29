@@ -114,7 +114,7 @@ df
 ```
   df[df.Indicador > 0.80]
 ```
-![Imagen donde aparecen las personas con un indicador mayor a 0.80]()
+![Imagen donde aparecen las personas con un indicador mayor a 0.80](https://raw.githubusercontent.com/DevPhantomUNAM/Proyecto_Final_Analisis-Datos-COVID-Mexico/master/assets/img/indicadorCovid.jpg)
 
 8. Para saber la cantidad de personas que tienen COVID, podemos medir el largo de la tabla con ```len()```
 ```
@@ -163,14 +163,14 @@ plt.show()
 rango1 = df[(df.Indicador > 0.80) & (df.Edad < 20)]
 rango1
 ```
-![Imagen donde aparecen las personas con un indicador mayor a 0.80 y un rango menor de 20 anios]()
+![Imagen donde aparecen las personas con un indicador mayor a 0.80 y un rango menor de 20 anios](https://raw.githubusercontent.com/DevPhantomUNAM/Proyecto_Final_Analisis-Datos-COVID-Mexico/master/assets/img/menos20.jpg)
 
 Para consegir personas de un rango de 20 años años a 40 utilizaremos la condicional &
 ```
 rango2 = df[(df.Indicador > 0.80) & (df.Edad >= 20) & (df.Edad <40)]
 rango2
 ```
-![Imagen donde aparecen las personas de 20 años hasta 40]()
+![Imagen donde aparecen las personas de 20 años hasta 40](https://raw.githubusercontent.com/DevPhantomUNAM/Proyecto_Final_Analisis-Datos-COVID-Mexico/master/assets/img/20a40.jpg)
 
 Sacaremos la cantidad total por cada tabla utilizando la funcion ```len()```
 
