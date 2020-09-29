@@ -279,10 +279,10 @@ En steps van los colores que se indicaron para el proyecto segun los rangos
 
 Insights recavados para esta muestra
 
-| Información	| Description                    | Insiight |
+| Información	| Description                    | Insights |
 | ------------- | ------------------------------ |  ------- |
 | Personas que tienen Indice > 0.80 == COVID| 21	 | De la muestra obtenida, aun contamos un un indice bajo de personas con indicador de COVID, pero personas que puedan estar en un rango de .60 a .80 pueden ser posibles persoans futuras con indicador de COVID |
-| Rango de edad de las personas que tienen Covid	| Menos de 20: 3  20 a 40: 2  40 a 60: 6   Más de 60: 13| Vemos que en nuestra población, las personas mayores de 60, tienen a tener más indicadores de COVID, despues el rango de menos de 20 y los dos de 40 a 60, y por ultimo estan los de 20 a 40 y se deba a que en esta edad, el cuerpo tenga mejores defensas. |
+| Rango de edad de las personas que tienen Covid	| Menos de 20: 3  20 a 40: 2 <br> 40 a 60: 6   Más de 60: 13| Vemos que en nuestra población, las personas mayores de 60, tienen a tener más indicadores de COVID, despues el rango de menos de 20 y los dos de 40 a 60, y por ultimo estan los de 20 a 40 y se deba a que en esta edad, el cuerpo tenga mejores defensas. |
 | Edad promedio	| 69 Años    | Al igual que insight de arriba, nuestro indice mayor es arriba de los 60 años. | 
 | Ciudad donde hay más contagiados	|   Waarloos, Copertino, Kollam, Dro  | Dentro de estas ciudades se tiene un porcentaje de 9.7 % de infectarse al 4.8% que existen en las demas ciudades. | 
 | Semáforo	| Amarillo  | Nuestra muestra determina que estamos en semaforo amarillo, aun que dado los insight recabados, aumente el numero de casos. |
